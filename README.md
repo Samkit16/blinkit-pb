@@ -5,7 +5,7 @@ This repository showcases an interactive Power BI dashboard developed using the 
 
 ---
 
-## 📝 Problem Statement
+## Problem Statement
 
 Modern retail chains like **Blinkit** operate across multiple tiers and outlet formats. However, understanding what drives **total sales**, **average sales**, and **product category performance** across different **locations and sizes** is often a challenge. This project attempts to:
 - Identify the **top-performing outlet types and sizes**.
@@ -19,13 +19,13 @@ Modern retail chains like **Blinkit** operate across multiple tiers and outlet f
 ## 🛠️ Tools Used
 
 - Power BI – data visualization, dashboarding, and DAX calculations
-- Excel – data pre-cleaning (optional)
+- Excel – data pre-cleaning
 - GitHub – version control and project sharing
-- Canva/Figma – design ideas or icons (optional)
+- Canva/Figma – design ideas and icons
 
 ---
 
-## 🚶‍♂️ Project Steps
+##  Project Steps
 
 1. **Data Understanding**  
    Loaded and explored the Blinkit dataset which contains outlet-wise sales and item records.
@@ -44,7 +44,7 @@ Modern retail chains like **Blinkit** operate across multiple tiers and outlet f
 
 ---
 
-## 🔍 Key Insights & Highlights
+## Key Insights & Highlights
 
 - **Tier 3 outlets** recorded the highest sales.
 - **Grocery Stores** perform consistently across all metrics.
@@ -54,13 +54,13 @@ Modern retail chains like **Blinkit** operate across multiple tiers and outlet f
 
 ---
 
-## 📌 Dashboard Features
+##  Dashboard Features
 
-- ✅ Total Sales, Avg Sales, Avg Rating, and Item KPIs
-- ✅ Sales trends over years
-- ✅ Sales by Outlet Tier and Fat Content
-- ✅ Item type breakdown with rankings
-- ✅ Outlet Type comparison by multiple metrics
-- ✅ Fully interactive slicers for better exploration
+-  Total Sales, Avg Sales, Avg Rating, and Item KPIs
+-  Sales trends over years
+-  Sales by Outlet Tier and Fat Content
+-  Item type breakdown with rankings
+-  Outlet Type comparison by multiple metrics
+-  Fully interactive slicers for better exploration
 
 ---
